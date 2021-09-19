@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hearaujo-hub
+- 👋 Hi, I’m @hearaujo-hub, my name is Hugo Eduardo de Araújo
 - 👀 I’m interested in Seismic Processing and Imaging for Geophysics of exploration in Oil and Gas Industry
 - 🌱 I’m currently learning Migration Technics. 
 - 💞️ I’m looking to collaborate on Migrations algoritms.
